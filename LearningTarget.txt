@@ -5,3 +5,7 @@ Welcome to my Learning Path
 3. BitBucket
 4. Docker
 5. kubernetes
+
+Other possible learning path targeted
+1. Jenkins
+2. CI/CD Pipelines 
