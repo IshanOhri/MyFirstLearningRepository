@@ -9,3 +9,6 @@ Welcome to my Learning Path
 Other possible learning path targeted
 1. Jenkins
 2. CI/CD Pipelines 
+
+This is the final learning path.
+
